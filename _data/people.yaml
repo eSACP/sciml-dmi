@@ -39,6 +39,7 @@
   techniques: 
     - supervised learning of CNN
     - CNN for image regression (not classification)
+    - coding in R and some python
   applications:
     - Radiometry: determine terrestrial albedo from Moon images
 
